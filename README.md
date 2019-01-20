@@ -7,4 +7,4 @@ C3D-LSTM is used in the following papers:
 2. [Action Quality Assessment Across Multiple Actions](https://arxiv.org/abs/1812.06367)
 
 
-Originally I had implemented C3D-LSTM in Caffe. I haven't tested this PyTorch version for exact results, but it should give results close to original implementation.
+Originally I had implemented C3D-LSTM in Caffe (https://github.com/ParitoshParmar/LTSOE). I haven't tested this PyTorch version for exact results, but it should give results close to original implementation.
