@@ -10,3 +10,8 @@ C3D-LSTM is used in the following papers:
 Originally I had implemented [C3D-LSTM](https://github.com/ParitoshParmar/LTSOE) in Caffe. I haven't tested this PyTorch version for exact results, but it should give results close to original implementation.
 
 Replace '...' with actual directories.
+
+## C3D+LSTM:
+
+
+<p align="center"> <img src="C3D+LSTM.png?raw=true" alt="C3D+LSTM"/> </p>
