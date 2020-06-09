@@ -11,7 +11,7 @@ Originally I had implemented [C3D-LSTM](https://github.com/ParitoshParmar/LTSOE)
 
 Replace '...' with actual directories.
 
-## C3D+LSTM:
+## C3D-LSTM Network Diagram:
 
 
-<p align="center"> <img src="C3D+LSTM.png?raw=true" alt="C3D+LSTM"/> </p>
+<p align="center"> <img src="C3D-LSTM.png?raw=true" alt="C3D-LSTM Network"/> </p>
